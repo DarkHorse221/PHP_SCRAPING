@@ -1,0 +1,40 @@
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects parameter 2 to be array, string given in <b>C:\xampp\htdocs\scrapping\scrap.php</b> on line <b>199</b><br />
+" EDB Team "	2020-01-29	Blog	" PostgreSQL or EDB Postgres Advanced Server: Which is Right for You? "	www.enterprisedb.com/blog/postgresql-or-edb-postgres-advanced-server-which-right-you	113	99	87.116666666667	37	0.72972972972973	0.46902654867257	0
+" EDB Team "	2020-01-28	Blog	" Ed Boyajian on Collaborating with the Postgres Community "	www.enterprisedb.com/blog/ed-boyajian-collaborating-postgres-community	37	33	257	19	0.78947368421053	0.64864864864865	0
+" EDB Team "	2020-01-23	Blog	" EnterpriseDB to Sponsor IBM Cloud Fast Start 2020, Vienna "	www.enterprisedb.com/blog/enterprisedb-sponsor-ibm-cloud-fast-start-2020-vienna	82	72	205.69230769231	31	0.74193548387097	0.52439024390244	0
+" EDB Team "	2020-01-22	Blog	" 8 Ways RDBMS Postgres Handles Non-Relational Data "	www.enterprisedb.com/blog/8-ways-rdbms-postgres-handles-non-relational-data	142	129	173.53846153846	89	0.82022471910112	0.72535211267606	0
+" EDB Team "	2020-01-21	Blog	" Enhanced security for EDB Postgres Advanced Server with Vormetric Data Security Platform "	www.enterprisedb.com/blog/enhanced-security-edb-postgres-advanced-server-vormetric-data-security-platform	91	76	208.55	37	0.81081081081081	0.56043956043956	0
+" John Dalton "	2020-01-16	Blog	" Thales Vormetric Transparent Encryption with EDB Postgres "	www.enterprisedb.com/blog/thales-vormetric-transparent-encryption-edb-postgres	252	200	184.93396226415	143	0.64335664335664	0.57936507936508	0
+" EDB Team "	2020-01-09	Blog	" January Off and Running with Postgres Events Near and Far "	www.enterprisedb.com/blog/january-and-running-postgres-events-near-and-far	74	63	175.43333333333	35	0.77142857142857	0.59459459459459	0
+" EDB Team "	2020-01-07	Blog	" Top 10 EDB Postgres Blogs Posts of 2019 "	www.enterprisedb.com/blog/top-10-edb-postgres-blogs-posts-2019	222	170	129.46710526316	77	0.53246753246753	0.31531531531532	0
+" Kuntal Ghosh  "	2020-01-24	Tutorial	" Benchmarking PostgreSQL on an AWS m5.metal instance  "	www.enterprisedb.com/postgres-tutorials/benchmarking-postgresql-aws-m5metal-instance	119	97	66.431034482759	51	0.7	0.51260504201681	0
+" Piyush Sharma  "	2020-01-14	Tutorial	" Using Foreign Data Wrappers to access remote PostgreSQL and Oracle databases  "	www.enterprisedb.com/postgres-tutorials/using-foreign-data-wrappers-access-remote-postgresql-and-oracle-databases	107	97	159.8253968254	15	0.73333333333333	0.41121495327103	0
+" Richard Yen  "	2020-01-09	Tutorial	" How to use PostgreSQL with Go  "	www.enterprisedb.com/postgres-tutorials/how-use-postgresql-go	169	153	177.17708333333	19	0.47368421052632	0.43195266272189	0
+" Ranjeet Dhumal  "	2020-01-08	Tutorial	" 10 Examples of PostgreSQL Stored Procedures  "	www.enterprisedb.com/postgres-tutorials/10-examples-postgresql-stored-procedures	420	394	189.73404255319	155	0.70967741935484	0.55238095238095	0
+" Ranjeet Dhumal  "	2020-01-02	Tutorial	" How to query PostgreSQL data using the SELECT statement in Java  "	www.enterprisedb.com/postgres-tutorials/how-query-postgresql-data-using-select-statement-java	201	193	164.68932038835	39	0.66666666666667	0.48756218905473	0
+" Pooja Rathod  "	2020-01-02	Tutorial	" How to install Docker for Mac  "	www.enterprisedb.com/postgres-tutorials/how-install-docker-mac	59	56	111.48571428571	7	0.71428571428571	0.40677966101695	0
+" Prabhat Sahu  "	2020-01-02	Tutorial	" How to use tables and column aliases when building a PostgreSQL query  "	www.enterprisedb.com/postgres-tutorials/how-use-tables-and-column-aliases-when-building-postgresql-query	270	250	143.69230769231	184	0.90217391304348	0.75925925925926	0
+" Amit Sharma  "	2020-01-02	Tutorial	" Using PostgreSQL with Toad Edge  "	www.enterprisedb.com/postgres-tutorials/using-postgresql-toad-edge	36	36	154.82608695652	3	0.66666666666667	0.36111111111111	0

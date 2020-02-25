@@ -1,0 +1,27 @@
+.scrap {
+    padding-left: 30%;
+    padding-top: 20%;
+}
+
+.img {
+    background-image: url('../img/images.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+#btn_scrap {
+    height: 65px;
+}
+
+.btn_scrap {
+    padding-left: 30px;
+}
+
+.scrap_input {
+    margin-bottom: 30px;
+}
+
+.btn_scrap1 {
+    height: 65px;
+    margin-left:20px;
+}

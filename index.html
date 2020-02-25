@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Scrapping</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./css/custom.css">
+</head>
+
+<body class="img">
+    <div class="scrap">
+        <div class="scrap_input">
+            <form action="upload.php" method="post" enctype="multipart/form-data" class="d-flex">
+                <div>
+                    Select Blog File to Upload:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="file" name="blogfileToUpload" id="blogfileToUpload" required>
+                    <br>
+                    Select Tutorial File to Upload:
+                    <input type="file" name="tutorialfileToUpload" id="tutorialfileToUpload" required>
+                </div>
+                <input type="submit" value="Upload" name="submit">
+            </form>
+        </div>
+        <div class="scrap_input d-flex">
+            <form action="./scrap.php" method="post" class="d-flex">
+                <div>
+                    <div>
+                        <label for="start">Start Date:</label>
+                        <input type="date" id="start" name="Start Date" required>
+                    </div>
+                    <div>
+                        <label for="end">End Date:&nbsp;</label>
+                        <input type="date" id="end" name="End Date" required>
+                    </div>
+                </div>
+                <div class="btn_scrap">
+                    <input id="btn_scrap" type="submit" value="Report 1">
+                </div>
+            </form>
+            <form action="second.php" method="post" enctype="multipart/form-data" class="d-flex" style="height: 65px; margin-left:20px;">
+                <input  class="btn_scrap1" type="submit" value="Report2" name="submit">
+            </form>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
